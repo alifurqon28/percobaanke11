@@ -1,0 +1,31 @@
+
+h1{
+    text-align: center;
+    color: aquamarine;
+}
+video{
+    height: 240px;
+    width: 380px;
+}
+img{
+    height: 240px;
+    width: 380px;
+}
+.lol{
+    text-align: center;
+}
+body{
+    background-image: url(photo/pngtree-watercolor-ink-gradient-pink-background-image_908756.png.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.lek{
+    text-align: center;
+}
+h2{text-align: center;
+font-size: larger;}
+h4{text-align: center;
+font-size: larger;}
+h5{text-align: center;
+font-size: larger;}
